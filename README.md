@@ -1,4 +1,4 @@
-Intro to Python Web crawling
+Introduction to Python Web crawling
 
 https://www.inflearn.com/course/Python-crawling-basic/
 
